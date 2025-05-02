@@ -1,0 +1,10 @@
+# Node_modules, logs, temporales
+*.log
+*.tmp
+
+# Entorno
+.env
+
+# Dependencias de Composer
+/vendor/
+/composer.lock
